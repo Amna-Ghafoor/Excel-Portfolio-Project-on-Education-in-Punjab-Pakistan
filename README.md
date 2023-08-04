@@ -1,13 +1,13 @@
 # Excel-Portfolio-Project-on-Education-in-Punjab-Pakistan
 
-##Introduction:
+Introduction:
 
 The dataset provided contains school data from various locations across Pakistan. It offers
 valuable insights into the performance and characteristics of schools in the country. By
 delving into this dataset, you can better understand Pakistan's education landscape and
 identify improvement areas.
 
-##Scenario:
+Scenario:
 
 You are a junior data analyst working with an international ed-tech company investing 3
 billion dollars in Punjab, Pakistan. The company aims to leverage technology to bridge
